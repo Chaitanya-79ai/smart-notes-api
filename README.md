@@ -8,6 +8,7 @@ Base URL:
 
 ```text
 https://smart-notes-api-0z6x.onrender.com
+```
 
 ## Project Overview
 
