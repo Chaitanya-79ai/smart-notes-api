@@ -2,6 +2,13 @@
 
 A FastAPI backend for a multi-user notes application. It supports user registration, JWT-based authentication, note CRUD operations, note sharing, keyword search, and a custom Smart Action Item Extraction feature.
 
+## Live Demo
+
+Base URL:
+
+```text
+https://smart-notes-api-0z6x.onrender.com
+
 ## Project Overview
 
 This project was built as a backend API for a notes app.
