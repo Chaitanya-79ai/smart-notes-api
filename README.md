@@ -4,7 +4,7 @@ A FastAPI backend for a multi-user notes application. It supports user registrat
 
 ## Live Demo
 
-Base URL:
+Swagger URL:
 
 ```text
 https://smart-notes-api-0z6x.onrender.com/docs
